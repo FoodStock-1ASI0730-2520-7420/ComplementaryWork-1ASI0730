@@ -111,13 +111,3 @@ Al finalizar el proyecto, los estudiantes serán capaces de:
 
 ---
 
-## 📂 **Estructura del Repositorio**
-
-```bash
-📦 FoodStock/
-├── starter-files/         # Archivos base para iniciar los ejercicios
-├── completed-examples/    # Ejemplos finales del sitio FoodStock
-├── assets/                # Imágenes, íconos y hojas de estilo
-├── docs/                  # Documentación y materiales de apoyo
-├── report.md              # Informe técnico y desarrollo teórico
-└── README.md              # Presentación general del proyecto
