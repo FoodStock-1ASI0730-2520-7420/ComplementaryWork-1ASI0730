@@ -2,7 +2,7 @@
 
 <h3>Universidad Peruana de Ciencias Aplicadas</h3>
 
-<img alt="upc-logo" src="UPC_logo_transparente.png" width="200"/><br>
+<img alt="upc-logo" src="assets/images/UPC_logo_transparente.png" width="200"/><br>
 
 <strong>Facultad de Ingeniería</strong><br>
 <strong>Carrera de Ingeniería de Software</strong><br>
