@@ -11,83 +11,49 @@
 <strong>NRC: 7420</strong><br>
 <strong>Profesor: Alex Humberto Sánchez Ponce</strong><br>
 
-<br><strong>Informe del Trabajo Complementario</strong><br><br>
-
-<strong>Startup:</strong> GestionPro<br>
+<br><strong>Startup:</strong> GestionPro<br>
 <strong>Producto:</strong> FoodStock<br>
 
 </div>
 
 ---
 
-## 👥 **Integrantes del Equipo**
+# FoodStock – GestionPro
 
-| Integrante | Código |
-|:-------------------------------:|:----------:|
-| José María Franco Del Carpio | U202319178 |
-| Jean Pool Huaman De La Cruz | U20201E781 |
-| Javier Masaru Nikaido Vargas | U20221G099 |
-| Gonzalo Samuel Quintanilla Pozo | U202315007 |
-| Melina Liz Santillán Alvarado | U202216058 |
+Bienvenido al proyecto **FoodStock**, una experiencia educativa e interactiva creada por **GestionPro** como parte del curso **1ASI0730 – Aplicaciones Web** en la **Universidad Peruana de Ciencias Aplicadas (UPC)**.
 
 ---
 
-📄 **Informe del Proyecto (PDF):** [Descargar aquí](./docs/upc-pre-202520-1asi0730-7420-foodstock-course-plan.pdf)  
-📋 **Reporte de Participación (Performance Report):** [Descargar aquí](./docs/upc-pre-202520-1asi0730-7420-foodstock-course-plan-performance.pdf)
+## 🎯 Objetivo
+
+Este proyecto introduce a los estudiantes de nivel universitario a los **fundamentos del desarrollo web**, mediante clases prácticas y ejemplos aplicados a un caso real: la **gestión digital de alimentos, ingredientes y recetas**.
+
+A través de una metodología accesible y orientada a la práctica, los participantes aprenderán a construir sitios web con **HTML5 y CSS3**, aplicando principios de diseño responsivo, estructura semántica y accesibilidad.
 
 ---
 
-## 📑 **Tabla de Contenido**
+## 📚 Project Overview
 
-1. [🎯 Objetivo](#-objetivo)  
-2. [📚 Descripción General del Proyecto](#-descripción-general-del-proyecto)  
-   - [🧩 Módulos del Curso](#-módulos-del-curso)  
-3. [🧠 Resultados de Aprendizaje](#-resultados-de-aprendizaje)  
-4. [🧰 Herramientas y Recursos](#-herramientas-y-recursos)  
-5. [📂 Estructura del Repositorio](#-estructura-del-repositorio)  
-6. [🌐 Recursos en Línea](#-recursos-en-línea)  
-7. [💬 Sobre el Proyecto](#-sobre-el-proyecto)  
-8. [📘 Plan del Curso – Fundamentos de Desarrollo Web](#-plan-del-curso--fundamentos-de-desarrollo-web)  
-9. [👥 Elaboración](#-elaboración)
+**Duración:** Por definir  
+**Nivel:** Principiante / Intermedio  
+**Lenguajes:** HTML5 y CSS3  
+**Formato:** Clases prácticas, documentación y ejemplos guiados  
+**Enfoque:** Estructura, estilo, accesibilidad y diseño adaptable  
 
----
+### 🧩 Módulos del Curso
 
-## 🎯 **Objetivo**
-
-**FoodStock** es un proyecto educativo e interactivo desarrollado como parte del curso  
-**1ASI0730 – Aplicaciones Web** en la **Universidad Peruana de Ciencias Aplicadas (UPC)**.
-
-El propósito del proyecto es enseñar los **fundamentos del desarrollo web** utilizando **HTML5** y **CSS3**, aplicados a un contexto práctico y cotidiano: la **gestión digital de alimentos, ingredientes y recetas**.
-
-El objetivo principal es demostrar la aplicación de buenas prácticas de desarrollo, diseño accesible y estructura semántica, permitiendo a los estudiantes adquirir una base sólida en la creación de sitios web.
+1. 🌎 Introducción a la Web y al concepto de *FoodStock*  
+2. ⚙️ Fundamentos de HTML  
+3. 🧱 Elementos HTML aplicados a *FoodStock*  
+4. 🎨 Introducción a CSS  
+5. 🧭 Diseño Responsivo y Accesible  
+6. 🚨 Errores Comunes y Buenas Prácticas  
 
 ---
 
-## 📚 **Descripción General del Proyecto**
+## 🧠 Learning Outcomes
 
-| Atributo | Detalle |
-|-----------|----------|
-| **Duración** | Por definir |
-| **Nivel** | Principiante / Intermedio |
-| **Lenguajes** | HTML5 y CSS3 |
-| **Formato** | Clases prácticas, documentación y ejemplos guiados |
-| **Enfoque** | Estructura, estilo, accesibilidad y diseño adaptable |
-
-### 🧩 **Módulos del Curso**
-
-1. 🌎 *Introducción a la Web y al concepto de FoodStock*  
-2. ⚙️ *Fundamentos de HTML*  
-3. 🧱 *Elementos HTML aplicados a FoodStock*  
-4. 🎨 *Introducción a CSS*  
-5. 🧭 *Diseño Responsivo y Accesible*  
-6. 🚨 *Errores Comunes y Buenas Prácticas*  
-
----
-
-## 🧠 **Resultados de Aprendizaje**
-
-Al finalizar el proyecto, los estudiantes serán capaces de:
-
+Al finalizar el proyecto, los estudiantes serán capaces de:  
 ✅ Comprender cómo **HTML5** define la estructura base de una página web.  
 ✅ Aplicar **CSS3** para controlar el diseño, colores y tipografía.  
 ✅ Usar etiquetas **semánticas** para mejorar la accesibilidad y el SEO.  
@@ -96,14 +62,14 @@ Al finalizar el proyecto, los estudiantes serán capaces de:
 
 ---
 
-## 🧰 **Herramientas y Recursos**
+## 🧰 Tools & Resources
 
-### 🖥️ Entornos de Desarrollo
+### 🖥️ Development Environments
 - [Replit](https://replit.com)  
 - [CodePen](https://codepen.io)  
 - [JSFiddle](https://jsfiddle.net)
 
-### 📘 Documentación y Aprendizaje
+### 📘 Learning Resources
 - [MDN Web Docs – HTML](https://developer.mozilla.org/es/docs/Web/HTML)  
 - [MDN Web Docs – CSS](https://developer.mozilla.org/es/docs/Web/CSS)  
 - [W3Schools – HTML](https://www.w3schools.com/html/)  
@@ -111,3 +77,34 @@ Al finalizar el proyecto, los estudiantes serán capaces de:
 
 ---
 
+## 📂 Repository Structure
+starter-files/ — Archivos base para las prácticas.
+completed-examples/ — Ejemplos completos funcionales.
+course-plan.md — Plan oficial del curso.
+README.md — Archivo principal de presentación y guía del repositorio.
+
+---
+
+## 🌐 Online Resources
+
+📄 **Informe del Proyecto (PDF):** [Descargar aquí](./docs/upc-pre-202520-1asi0730-7420-foodstock-course-plan.pdf)  
+📋 **Reporte de Participación (Performance Report):** [Descargar aquí](./docs/upc-pre-202520-1asi0730-7420-foodstock-course-plan-performance.pdf)
+
+---
+
+## 👥 Team GestionPro
+
+**Team Leader:** Gonzalo Samuel Quintanilla Pozo  
+**Members:**  
+- José María Franco Del Carpio  
+- Jean Pool Huaman De La Cruz  
+- Javier Masaru Nikaido Vargas  
+- Melina Liz Santillán Alvarado  
+
+**Periodo:** 2025-2  
+**Curso:** 1ASI0730 – Aplicaciones Web  
+**Profesor:** Alex Humberto Sánchez Ponce  
+
+---
+
+Creado por **GestionPro – Inspirando el desarrollo web desde la práctica.**
