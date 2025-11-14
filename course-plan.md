@@ -18,7 +18,7 @@ Solo un **navegador web moderno** (Chrome, Firefox, Edge o Safari).
 No se requiere instalación de software adicional.
 
 ### 📂 Repositorio de Código Fuente
-[GitHub – FoodStock Web Fundamentals](https://github.com/yourusername/foodstock-web-course)
+[GitHub – FoodStock Web Fundamentals](https://github.com/FoodStock-1ASI0730-2520-7420/ComplementaryWork-1ASI0730/blob/main/course-plan.md)
 
 ---
 
@@ -100,6 +100,7 @@ No se requiere instalación de software adicional.
 - Santillan Alvarado Melina Liz
 
 **Fecha de entrega:** [Fecha]
+
 
 
 
