@@ -69,7 +69,7 @@ No se requiere instalación de software adicional.
 ### **Lección 6: Errores Comunes y Próximos Pasos** (5 min)
 **Descripción:** Revisión de errores frecuentes (etiquetas no cerradas, estilos no aplicados) y consejos para seguir aprendiendo.  
 **Conclusiones clave:** Buenas prácticas, depuración, recursos para avanzar en desarrollo web.  
-**Video:** YouTube – *Lección 6: Próximos pasos*
+**Video:**[Ver leccion](https://www.youtube.com/playlist?list=PLuqGDGUr1xQFc0vEt4LaH1daACB1RJMVu)
 
 ---
 
@@ -100,5 +100,6 @@ No se requiere instalación de software adicional.
 - Santillan Alvarado Melina Liz
 
 **Fecha de entrega:** [Fecha]
+
 
 
