@@ -24,26 +24,27 @@ No se requiere instalación de software adicional.
 
 ## 🧩 Secuencia de Lecciones
 
-### **Lección 1: ¿Qué es el desarrollo web?** (10 min)
+### **Lección 1: ¿Qué es el desarrollo web?** (7 min)
 **Descripción:** Introducción a cómo funcionan los sitios web, qué es el frontend y el rol de HTML y CSS.  
 **Conclusiones clave:** Estructura cliente-servidor, cómo un navegador interpreta código, propósito del HTML y CSS.  
-**Video:** Ver lección  
+**Video:** [Ver leccion](https://www.youtube.com/watch?v=6yw0KKxIpFk)
+
 **Práctica:** CodePen – *HTML básico*
 
 ---
 
-### **Lección 2: Fundamentos de HTML** (10 min)
+### **Lección 2: Fundamentos de HTML** (7 min)
 **Descripción:** Aprende la estructura de una página web utilizando etiquetas esenciales como `<html>`, `<head>` y `<body>`.  
 **Conclusiones clave:** Jerarquía de etiquetas, metadatos, estructura base del documento.  
-**Video:** Ver lección  
+**Video:** [Ver leccion](https://www.youtube.com/watch?v=qGMI89sQ3kg)
 **Práctica:** JSFiddle – *Estructura HTML*
 
 ---
 
-### **Lección 3: Elementos Comunes de HTML** (10 min)
+### **Lección 3: Elementos Comunes de HTML** (11 min)
 **Descripción:** Crea contenido interactivo mediante listas, imágenes y enlaces.  
 **Conclusiones clave:** `<ul>`, `<img>`, `<a>`; atributos y enlaces absolutos/relativos.  
-**Video:** Ver lección  
+**Video:**[Ver leccion](https://www.youtube.com/watch?v=BdZLLUbEnmM)
 **Práctica:** CodePen – *Elementos HTML*
 
 ---
@@ -98,3 +99,4 @@ No se requiere instalación de software adicional.
 - Santillan Alvarado Melina Liz
 
 **Fecha de entrega:** [Fecha]
+
