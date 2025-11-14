@@ -49,10 +49,11 @@ No se requiere instalación de software adicional.
 
 ---
 
-### **Lección 4: Introducción a CSS** (10 min)
+### **Lección 4: Introducción a CSS** (7 min)
 **Descripción:** Aprende a aplicar colores, fuentes y estilos a tu página con selectores CSS.  
 **Conclusiones clave:** `color`, `font-family`, `background-color`, selectores por clase e ID.  
-**Video:** Ver lección  
+**Video:** [Ver leccion](https://youtu.be/99nQMoXNRQQ?si=H6z1YWTt2MDUAP9p
+)
 **Práctica:** CodePen – *CSS básico*
 
 ---
@@ -60,7 +61,7 @@ No se requiere instalación de software adicional.
 ### **Lección 5: Proyecto Final – Mi Página Web** (15 min)
 **Descripción:** Combina HTML y CSS para crear una página personal con tu información, imágenes y estilo propio.  
 **Conclusiones clave:** Integración de HTML + CSS, estructura coherente, estilo consistente.  
-**Video:** Ver lección  
+**Video:** [Ver Leccion](https://youtu.be/8mEHnN88MzU)
 **Práctica:** Replit – *Proyecto Final*
 
 ---
@@ -99,4 +100,5 @@ No se requiere instalación de software adicional.
 - Santillan Alvarado Melina Liz
 
 **Fecha de entrega:** [Fecha]
+
 
